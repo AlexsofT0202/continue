@@ -1,3 +1,5 @@
+curl http://0.0.0.0:11434/v1/models/
+
 ---
 title: Chat
 description: How to use Chat
